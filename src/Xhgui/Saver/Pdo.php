@@ -31,7 +31,7 @@ INSERT INTO "%s" (
   profile,
   url,
   SERVER,
-  GET,
+  `GET`,
   ENV,
   simple_url,
   request_ts,
